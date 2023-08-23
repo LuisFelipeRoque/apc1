@@ -1,4 +1,4 @@
-# Algoritimos e programação de Computadores 1
+# Algoritimos e programação de Computadores I
 
 Repositorio criadro para submetermos codigos implementados nma disciplina.
 
